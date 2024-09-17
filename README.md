@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently learning Rust 🦀
+
+Bitcoin development and accounting
+
 <!--
 **mvuk/mvuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
